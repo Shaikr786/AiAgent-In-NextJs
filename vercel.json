@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "src/app/api/copilotkit/route.js": {
+      "maxDuration": 60
+    }
+  }
+}
+
